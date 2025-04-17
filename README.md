@@ -46,3 +46,6 @@ v18.x.x
 **Summary:**  
 Remove the old Node.js, add the NodeSource repo, and install Node.js 18.  
 If you run into any errors, please copy and paste them here for further help!
+
+
+sudo apt-get install -y libgbm1 libnss3 libatk-bridge2.0-0 libx11-xcb1 libxcomposite1 libxdamage1 libxrandr2 libasound2 libpangocairo-1.0-0 libgtk-3-0
